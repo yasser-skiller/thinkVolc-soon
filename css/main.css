@@ -318,10 +318,10 @@ Primary use:
   top: 0;
   left: 0;
   background: #7579ff;
-  background: -webkit-linear-gradient(bottom, #b224ef, #7579ff);
-  background: -o-linear-gradient(bottom, #b224ef, #7579ff);
-  background: -moz-linear-gradient(bottom, #b224ef, #7579ff);
-  background: linear-gradient(bottom, #b224ef, #7579ff);
+  background: -webkit-linear-gradient(bottom, #01abae, #7579ff);
+  background: -o-linear-gradient(bottom, #01abae, #7579ff);
+  background: -moz-linear-gradient(bottom, #01abae, #7579ff);
+  background: linear-gradient(bottom, #01abae, #7579ff);
   opacity: 0.9;
 }
 
